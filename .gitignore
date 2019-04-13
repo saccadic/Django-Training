@@ -6,3 +6,6 @@ local_settings.py
 db.sqlite3
 media
 mysite/.idea/
+.idea/
+*/static
+file_uploader/upload_form/static/
